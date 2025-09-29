@@ -1,7 +1,7 @@
 # psyduck client
 
 這是一個乾淨版的 Kirka.io 客戶端，沒有任何額外功能。  
-目前它只會單純開啟 https://kirka.io/。
+目前它只會單純開啟 https://kirka.io/ 。
 
 ---
 
