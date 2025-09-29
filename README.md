@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 下載方法
-到 https://github.com/psyduck418/psyduck-client/releases 找到 .exe 檔
+到 https://github.com/psyduck418/psyduck-client/releases 點開 assest 找到 .exe 檔
 下載就對了
 
 ## 🚀 使用方法
